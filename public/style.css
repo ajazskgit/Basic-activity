@@ -1,0 +1,16 @@
+body{
+margin-left: 20px;
+}
+.ak{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 18px;
+    display: inline-block ;
+    
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 18px;
+    border-radius: 18px;
+}
