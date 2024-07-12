@@ -24,7 +24,7 @@ app.listen(8080,(req,res)=>{
     console.log("8080 is listening to server");
 })
 app.get("/",(req,res)=>{
-    res.send("yo app ready!!")
+    res.render("new.ejs"); 
 })
 
 //show all chats
